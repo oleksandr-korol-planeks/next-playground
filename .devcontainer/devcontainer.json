@@ -13,11 +13,9 @@
         "vunguyentuan.vscode-postcss",
         "esbenp.prettier-vscode",
         "viijay-kr.react-ts-css",
-        "ritwickdey.liveserver",
         "streetsidesoftware.code-spell-checker",
         "streetsidesoftware.code-spell-checker-ukrainian",
         "usernamehw.errorlens",
-        "sonarsource.sonarlint-vscode"
   ],
   "postCreateCommand": "yarn install && yarn run dev"
 }
